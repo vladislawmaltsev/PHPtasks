@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../Tasks/HT4/index.php" line="11" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="362c4b05-7e5f-4df7-9bf5-ef96afc19a17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Tasks" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/parser.php" />
+        <option value="$PROJECT_DIR$/parserLib.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/sdsdf.php" />
+        <option value="$PROJECT_DIR$/brainfuck.php" />
+        <option value="$PROJECT_DIR$/ht2.php" />
+        <option value="$PROJECT_DIR$/ht2.html" />
+        <option value="$PROJECT_DIR$/ht3.html" />
+        <option value="$PROJECT_DIR$/ht3.php" />
+        <option value="$PROJECT_DIR$/ht3Remastered.php" />
+        <option value="$PROJECT_DIR$/HT4/ht4.html" />
+        <option value="$PROJECT_DIR$/HT4/ht4.php" />
+        <option value="$PROJECT_DIR$/HT5/ht5.html" />
+        <option value="$PROJECT_DIR$/HT5/ht5.php" />
+        <option value="$PROJECT_DIR$/HT5/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="117" />
+    <option name="y" value="60" />
+    <option name="width" value="1717" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tasks" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Tasks/HT3" />
+      <recent name="$PROJECT_DIR$/../Tasks/HT2" />
+      <recent name="$PROJECT_DIR$/../Tasks/HT1" />
+      <recent name="C:\Users\Vladislaw\PhpstormProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="parserLib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Tasks/parserLib.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.parserLib.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="362c4b05-7e5f-4df7-9bf5-ef96afc19a17" name="Default Changelist" comment="" />
+      <created>1550221772848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550221772848</updated>
+      <workItem from="1550221774075" duration="755000" />
+      <workItem from="1550224351887" duration="199000" />
+      <workItem from="1550431061157" duration="142000" />
+      <workItem from="1550431911151" duration="12766000" />
+      <workItem from="1550490962142" duration="2467000" />
+      <workItem from="1550497761265" duration="45000" />
+      <workItem from="1550500138614" duration="3108000" />
+      <workItem from="1550575087289" duration="2255000" />
+      <workItem from="1550589896924" duration="2998000" />
+      <workItem from="1550607125026" duration="8200000" />
+      <workItem from="1550646663830" duration="3467000" />
+      <workItem from="1550688129456" duration="349000" />
+      <workItem from="1550786421373" duration="61000" />
+      <workItem from="1550786804651" duration="357000" />
+      <workItem from="1550787186187" duration="131000" />
+      <workItem from="1550837989107" duration="657000" />
+      <workItem from="1551000883402" duration="2823000" />
+      <workItem from="1551014778583" duration="4065000" />
+      <workItem from="1551040753309" duration="2932000" />
+      <workItem from="1551078039087" duration="341000" />
+      <workItem from="1551078667258" duration="2428000" />
+      <workItem from="1551106022501" duration="1645000" />
+      <workItem from="1551168112996" duration="297000" />
+      <workItem from="1551202992234" duration="98000" />
+      <workItem from="1551203134243" duration="242000" />
+      <workItem from="1551203478879" duration="230000" />
+      <workItem from="1551203735652" duration="82000" />
+      <workItem from="1551203838673" duration="191000" />
+      <workItem from="1551204049587" duration="85000" />
+      <workItem from="1551204153579" duration="42000" />
+      <workItem from="1551204215378" duration="200000" />
+      <workItem from="1551213890804" duration="127000" />
+      <workItem from="1551253160238" duration="46000" />
+      <workItem from="1551681039176" duration="2449000" />
+      <workItem from="1551709796980" duration="11129000" />
+      <workItem from="1552162000096" duration="7000" />
+      <workItem from="1552234594579" duration="2424000" />
+      <workItem from="1552239718560" duration="47000" />
+      <workItem from="1552316272457" duration="48000" />
+      <workItem from="1552834027213" duration="50000" />
+      <workItem from="1552834120860" duration="4085000" />
+      <workItem from="1552845853645" duration="3084000" />
+      <workItem from="1552858200768" duration="10347000" />
+      <workItem from="1553519177041" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88076000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="117" y="60" width="1717" height="998" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16976605" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62513906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parser.php" />
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT3/ht3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT4/ht4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT5/ht5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/simple_html_dom.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/sdsdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1532">
+          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/pr2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/parserLib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT5/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <marker date="1552922136384" expanded="true" signature="28:40" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Tasks/HT4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
