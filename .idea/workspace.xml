@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../Tasks/HT4/index.php" line="11" />
+    <bookmark url="file://$PROJECT_DIR$/HT4/index.php" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="362c4b05-7e5f-4df7-9bf5-ef96afc19a17" name="Default Changelist" comment="" />
+    <list default="true" id="362c4b05-7e5f-4df7-9bf5-ef96afc19a17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HT6/MyTXT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HT6/helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HT6/index.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HT6/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +18,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HT6/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Tasks" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,11 +58,15 @@
         <option value="$PROJECT_DIR$/HT5/ht5.html" />
         <option value="$PROJECT_DIR$/HT5/ht5.php" />
         <option value="$PROJECT_DIR$/HT5/index.php" />
+        <option value="$PROJECT_DIR$/HT6/test.txt" />
+        <option value="$PROJECT_DIR$/HT6/helper.php" />
+        <option value="$PROJECT_DIR$/HT6/index.ini" />
+        <option value="$PROJECT_DIR$/HT6/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="117" />
     <option name="y" value="60" />
     <option name="width" value="1717" />
@@ -58,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,17 +111,22 @@
               <item name="Tasks" type="462c0819:PsiDirectoryNode" />
               <item name="HT5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hometasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="HT6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -108,9 +134,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../Tasks/HT3" />
-      <recent name="$PROJECT_DIR$/../Tasks/HT2" />
-      <recent name="$PROJECT_DIR$/../Tasks/HT1" />
+      <recent name="$PROJECT_DIR$/HT3" />
+      <recent name="$PROJECT_DIR$/HT2" />
+      <recent name="$PROJECT_DIR$/HT1" />
       <recent name="C:\Users\Vladislaw\PhpstormProjects\untitled" />
     </key>
   </component>
@@ -126,12 +152,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="parserLib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../Tasks/parserLib.php">
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/HT6/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="parserLib.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/parserLib.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.parserLib.php" />
       </list>
     </recent_temporary>
@@ -189,22 +219,34 @@
       <workItem from="1552834120860" duration="4085000" />
       <workItem from="1552845853645" duration="3084000" />
       <workItem from="1552858200768" duration="10347000" />
-      <workItem from="1553519177041" duration="575000" />
+      <workItem from="1553519177041" duration="1151000" />
+      <workItem from="1553943163390" duration="92000" />
+      <workItem from="1553943319169" duration="2234000" />
+      <workItem from="1554117186421" duration="1673000" />
     </task>
+    <task id="LOCAL-00001" summary="add new ht">
+      <created>1553520083877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553520083877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88076000" />
+    <option name="totallyTimeSpent" value="92651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="60" width="1717" height="998" extended-state="0" />
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16976605" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15721925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.62513906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6247379" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,68 +266,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new ht" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new ht" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parser.php" />
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT2/index.php">
+    <entry file="file://$PROJECT_DIR$/HT2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT3/ht3.html">
+    <entry file="file://$PROJECT_DIR$/HT3/ht3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT4/ht4.html">
+    <entry file="file://$PROJECT_DIR$/HT4/ht4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT5/ht5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT1/index.php">
+    <entry file="file://$PROJECT_DIR$/HT1/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="48" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/simple_html_dom.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/sdsdf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1532">
-          <caret line="66" column="49" selection-start-line="66" selection-start-column="49" selection-end-line="66" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/pr2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/parserLib.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT5/index.php">
+    <entry file="file://$PROJECT_DIR$/simple_html_dom.php" />
+    <entry file="file://$PROJECT_DIR$/sdsdf.php" />
+    <entry file="file://$PROJECT_DIR$/pr2.php" />
+    <entry file="file://$PROJECT_DIR$/parserLib.php" />
+    <entry file="file://$PROJECT_DIR$/HT5/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
@@ -295,17 +314,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT3/index.php">
+    <entry file="file://$PROJECT_DIR$/HT3/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Tasks/HT4/index.php">
+    <entry file="file://$PROJECT_DIR$/HT4/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HT5/ht5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HT6/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HT6/index.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HT6/MyTXT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HT6/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
         </state>
       </provider>
     </entry>
