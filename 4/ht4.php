@@ -1,6 +1,5 @@
-
 <?php
-function xrange($textarr, $intarr, $sum, $count) {
+function rrange($textarr, $intarr, $sum, $count) {
     $a = 0;
     while ($a<$count) {
         $a++;
@@ -20,6 +19,7 @@ function xrange($textarr, $intarr, $sum, $count) {
 }
 function check($textarr, $intarr){
     if (!isset($textarr) || !isset($intarr)) return;
+
     $realLife = [];
     $count = 10000;
 
@@ -27,11 +27,12 @@ function check($textarr, $intarr){
         $realLife[$item] = 0;
     }
     $newSum = 0;
+
     foreach ($intarr as &$integer){
         $integer = round($integer*100);
         $newSum += $integer;
     }
-    foreach (xrange($textarr, $intarr, $newSum,$count) as $item){
+    foreach (rrange($textarr, $intarr, $newSum,$count) as $item){
         foreach ($textarr as $value){
             if ($item == $value){
                 $realLife[$item]++;
