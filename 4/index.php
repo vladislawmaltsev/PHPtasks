@@ -1,45 +1,46 @@
 <?php
+require "ht4.html";
+if (isset($_REQUEST['area1'])):
+    $allStr = $_REQUEST['area1'];
+    $arr = explode(PHP_EOL, $allStr);
+    $sumOfInt = 0;
+    $intarr = [];
+    foreach ($arr as &$str){
+        $i = 0;
+        $int = 0;
+        while ( is_numeric(substr(trim($str), $i-1))) {
+            $i--;
+            $int = substr(trim($str), $i);
+        }
+        $str = explode(" ", trim($str));
+        array_pop($str);
+        $str = implode(" ", $str);
+        $intarr[] = $int;
+        $sumOfInt += $int;
+    }
+    $probarr = [];
+    foreach ($intarr as $item){
+        if ($sumOfInt)
+            $probarr[] = $item/$sumOfInt;
 
-require 'ht4.html';
+        else $probarr[] = $item/1;
 
-$allStr = "";
-
-if (isset($_POST["area1"])){
-    $allStr = $_POST["area1"];
-}
-
-$separator = "\n";
-$sep2 = " ";
-$ves = [];
-$vesInt = [];
-
-$strs = explode($separator,$allStr);
-
-for ($i = 0; $i < count($strs); $i++) {
-    $arr = explode($sep2,$strs[$i]);
-    $ves[$i] = $arr[count($arr)-1];
-}
-
-
-for ($i = 0; $i < count($ves); $i++) {
-    $vesInt[$i] = (int) $ves[$i];
-}
-
-
-$sum = array_sum($vesInt);
-
-$prob = [];
-
-
-for ($i = 0; $i < count($vesInt); $i++) {
-    $prob[$i] = $vesInt[$i]/$sum;
-}
-
-
-
-foreach ($prob as $a) {
-    echo $a . " ";
-}
-
-
-echo $sum;
+    }
+    $data = [];
+    for($i = 0; $i<count($arr); $i++){
+        $data[] = [
+            "text" => $arr[$i],
+            "weight" => $intarr[$i],
+            "probability" => $probarr[$i]
+        ];
+    }
+    $firstjson = [
+        "sum" => $sumOfInt,
+        "data" => $data
+    ];
+    print_r(json_encode($firstjson, JSON_UNESCAPED_UNICODE));
+    include "4.php";
+    echo "\n<br>";
+    echo "\n<br>";
+    check($arr, $probarr);
+endif;
