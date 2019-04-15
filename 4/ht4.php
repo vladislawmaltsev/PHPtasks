@@ -43,7 +43,7 @@ function check($textarr, $intarr){
     for($i = 0; $i<count($textarr); $i++){
         $data[] = [
             "text" => $textarr[$i],
-            "count" => $realLife[$textarr[$i]]/$count,
+            "count" => $realLife[$textarr[$i]],
             "probability" => $intarr[$i]/100
         ];
     }
