@@ -24,6 +24,7 @@ function workWithFile(array $textArr){
         echo "<p style=\"color:green\">File name: </p>";
         return;
     }
+
     $filename = $_REQUEST["filename"];
     $fileLogger = new FileLogger("$filename");
     write($fileLogger,helper($textArr));
