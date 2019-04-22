@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Logger</title>
+</head>
+<body>
+<form method="post" action="index.php">
+    <label for="text">Text: </label><br>
+    <textarea name="text" id="text" style="height: 200px"></textarea><br>
+
+    <label for="r1">Write log into the file</label>
+    <input type="radio" id="r1" name="type" value="file"/><br>
+
+    <label for="r2">Show in a browser</label>
+    <input type="radio" id="r2" name="type" value="browser" checked/><br>
+
+    <label for="filename">File name: </label>
+    <input type="text" name="filename" id="filename" placeholder="filename"/><br>
+
+    <label for="setting">Choose date format</label>
+    <select name="setting" id="setting">
+        <option value="d">Date</option>
+        <option value="t">Time</option>
+        <option value="off" selected>Off</option>
+    </select><br>
+
+    <input type="submit" value="Ok"/>
+</form>
+</body>
+</html>
