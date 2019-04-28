@@ -16,9 +16,9 @@ function tracert($ip){
         echo "Список адресов на пути: <br> ";
         foreach ($output as $item) {
             echo $item."<br>";
-//            $item = explode(" ", trim($item));
-//            if (isset($item[2]) && $item[2] != "*")
-//                echo $item[2] . "<br>";
+            $item = explode(" ", trim($item));
+            if (isset($item[2]) && $item[2] != "*")
+                echo $item[2] . "<br>";
         }
         return true;
     }else {

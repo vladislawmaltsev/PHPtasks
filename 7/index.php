@@ -2,6 +2,7 @@
 include "index.html";
 include "other.php";
 if (!isset($_REQUEST['url'])|| !isset($_REQUEST['type'])) return;
+
 $url = $_REQUEST['url'];
 $type = $_REQUEST['type'];
 if (filter_var($url, FILTER_VALIDATE_IP)) $ip = $url;
