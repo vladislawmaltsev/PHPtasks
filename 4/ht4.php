@@ -29,7 +29,7 @@ function check($textarr, $intarr){
     $newSum = 0;
 
     foreach ($intarr as &$integer){
-        $integer = round($integer*100);
+//        $integer = round($integer*100);
         $newSum += $integer;
     }
     foreach (rrange($textarr, $intarr, $newSum,$count) as $item){
@@ -44,7 +44,7 @@ function check($textarr, $intarr){
         $data[] = [
             "text" => $textarr[$i],
             "count" => $realLife[$textarr[$i]],
-            "probability" => $intarr[$i]/100
+            "probability" => $intarr[$i],
         ];
     }
     print_r(json_encode($data, JSON_UNESCAPED_UNICODE));
